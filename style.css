@@ -65,6 +65,7 @@ body {
     font-weight: var(--fw-regular);
     display: grid;
     place-content: center;
+    margin: 1rem
 }
 
 .card-container {
